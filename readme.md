@@ -216,11 +216,6 @@ If you are an iTerm2 user, third column describes the keybinding of similar  "ac
         <td>-</td>
     </tr>
     <tr>
-        <td><code>&lt;prefix&gt; \</code></td>
-        <td>Swap panes back and forth with 1st pane. When in main-horizontal or main-vertical layout, the main panel is always at index 1. This keybinding let you swap secondary pane with main one, and do the opposite.</td>
-        <td>⌘\</td>
-    </tr>
-    <tr>
         <td><code>&lt;prefix&gt; C-o</code></td>
         <td>Swap current active pane with next one</td>
         <td>-</td>
